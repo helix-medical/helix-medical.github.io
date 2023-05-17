@@ -1,11 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.87989f48.js",
+    "main.js": "/static/js/main.b0d9597b.js",
+    "static/media/homepage.png": "/static/media/homepage.800a2557d655b65d029a.png",
+    "static/media/home.png": "/static/media/home.d8f977f7bade11ba73e9.png",
+    "static/media/facture.png": "/static/media/facture.f625f3c0dc7327fc5cf7.png",
+    "static/media/calendar.png": "/static/media/calendar.2ae0a4e6cb52c6d1ae92.png",
+    "static/media/compta.png": "/static/media/compta.335ef0d9308c52c95704.png",
+    "static/media/dossier-patient.png": "/static/media/dossier-patient.399d0ad74c2d579c8b52.png",
+    "static/media/patients.png": "/static/media/patients.bc36ce68b026e808f561.png",
+    "static/media/appointment-view.png": "/static/media/appointment-view.ec8018513e6664f21186.png",
     "static/media/logo.png": "/static/media/logo.e4d2c48c2a99d30d3960.png",
     "index.html": "/index.html",
-    "main.87989f48.js.map": "/static/js/main.87989f48.js.map"
+    "main.b0d9597b.js.map": "/static/js/main.b0d9597b.js.map"
   },
   "entrypoints": [
-    "static/js/main.87989f48.js"
+    "static/js/main.b0d9597b.js"
   ]
 }

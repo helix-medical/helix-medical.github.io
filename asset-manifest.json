@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.b0d9597b.js",
+    "main.js": "/static/js/main.7efda7c8.js",
     "static/media/homepage.png": "/static/media/homepage.800a2557d655b65d029a.png",
     "static/media/home.png": "/static/media/home.d8f977f7bade11ba73e9.png",
     "static/media/facture.png": "/static/media/facture.f625f3c0dc7327fc5cf7.png",
@@ -11,9 +11,9 @@
     "static/media/appointment-view.png": "/static/media/appointment-view.ec8018513e6664f21186.png",
     "static/media/logo.png": "/static/media/logo.e4d2c48c2a99d30d3960.png",
     "index.html": "/index.html",
-    "main.b0d9597b.js.map": "/static/js/main.b0d9597b.js.map"
+    "main.7efda7c8.js.map": "/static/js/main.7efda7c8.js.map"
   },
   "entrypoints": [
-    "static/js/main.b0d9597b.js"
+    "static/js/main.7efda7c8.js"
   ]
 }

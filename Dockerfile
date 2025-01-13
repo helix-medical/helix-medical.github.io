@@ -21,11 +21,11 @@ FROM builder AS build
 WORKDIR /helix-website
 
 # Install packages
-COPY ./website/package*.json ./
+COPY ./package*.json ./
 RUN npm clean-install
 
 # Copy and build the project
-COPY ./website/* .
+COPY ./* .
 RUN npm run docker
 
 ################################################################################
